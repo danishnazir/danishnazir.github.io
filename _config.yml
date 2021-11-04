@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Danish Nazir"
   avatar           : "danish-nazir.jpg"
-  bio              : "MSc. student in Informatik at  [Damon McCoy](http://damonmccoy.com)[TUKL](https://www.uni-kl.de/en/startseite) and Research Assistant at [DFKI](https://www.dfki.de/en/web/about-us/locations-contact/kaiserslautern/)."
+  bio              : "MSc. student in Informatik at Technical University of Kaiserslautern and Research Assistant at German Research Center for Artificial Intelligence (DFKI)."
 
-  location         : "dn8034 [at] gmail[dot]com"
-  employer         : "Technical University of Kaiserslautern"
+  location         : "Kaiserslautern, Germany"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=MjwK9VwAAAAJ&hl=en"
-  researchgate     :  "https://www.researchgate.net/profile/Danish-Nazir"
+  researchgate     : "https://www.researchgate.net/profile/Danish-Nazir"
   uri              :
   bitbucket        :
   codepen          :
