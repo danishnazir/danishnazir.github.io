@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Positions and Service"
+title: "Professional Experience"
 permalink: positions/
 author_profile: true
 
