@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Danish Nazir"
 title_separator          : "-"
 name                     : &name "Danish Nazir"
-description              : &description "I am a Masters student in Informatik with specializations in Intelligent Systems and Visualizations and Scientific Computing. I am looking for PhD positions in Autonomous Vision, Sensor Fusion and related fields to continue my studies."
+description              : &description "I am a Masters student in Informatik with specializations in Intelligent Systems and Visualizations and Scientific Computing at Technical University of Kaiserslautern. I am looking for PhD positions in Autonomous Vision, Sensor Fusion and related fields to continue my studies."
 url                      : https://danishnazir.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danishnazir/danishnazir.github.io"
