@@ -25,5 +25,5 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Software Engineer at Anzen, Islamabad
 #### August 2016 - June 2017
-#### Research project on Pedestrian detection and customer reidentification.
+#### Research project on Pedestrian detection and reidentification.
 <br/>
