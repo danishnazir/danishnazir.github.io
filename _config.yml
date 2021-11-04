@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao"
+title                    : "Danish Nazir"
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao"
-description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her."
-url                      : https://rasikabh.github.io/
+name                     : &name "Danish Nazir"
+description              : &description "I am a Masters student in Informatik with specializations in Intelligent Systems and Visualizations and Scientific Computing. I am looking for PhD positions in Autonomous Vision, Sensor Fusion and related fields to continue my studies."
+url                      : https://danishnazir.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rasikabh/rasikabh.github.io"
+repository               : "danishnazir/danishnazir.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter rasikabh
+  username               : &twitter danish_nazir1
 facebook:
-  username               :
+  username               : &facebook DanishNazer1994
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rasika Bhalerao"
+  name             : "Danish Nazir"
   avatar           : "Bhalerao2021.jpeg"
-  bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching. She/her"
-  location         : "rasikabh @ gmail.com"
-  employer         : "New York University"
+  bio              : "MSc. student in Informatik at Technical University of Kaiserslautern. Interested in Deep Learning, Computer Vision, Self-driving cars, Autonomous Systems"
+  location         : "dn8034 @ gmail.com"
+  employer         : "Technical University of Kaiserslautern"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
-  researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
+  googlescholar    : "https://scholar.google.com/citations?user=MjwK9VwAAAAJ&hl=en"
+  researchgate     :  "https://www.researchgate.net/profile/Danish-Nazir"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rasikabh"
+  github           : "danishnazir"
   google_plus      :
-  keybase          : "rasikabh"
+  keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rasika-bhalerao-8a827188/"
+  linkedin         : "danish-nazir-115a0a102/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "rasikabh"
+  twitter          : "danish_nazir1"
   vine             :
   weibo            :
   xing             :
