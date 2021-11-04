@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rasika Bhalerao"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,4 +11,4 @@ redirect_from:
 I am a PhD student in computer science at NYU working with Professor [Damon McCoy](http://damonmccoy.com). 
 I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her.
 
-<img src="/images/Bhalerao2021.jpeg" width="200">
+
